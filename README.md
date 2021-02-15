@@ -14,4 +14,4 @@ Prior to refractoring the code, the run time for analysing 12 tickers in 2017 wa
 ## Summary
 Refractoring code enhances the user experience and elevates the level of service you provide to your clients. It is similar to plating an entree at an upscale restaurant; it has the garnish, the plate is warm, and it is nicely presented. It doesn't enahnce the nutritional value, or the calories ingested, and doesn't changethe basic goal of the meal, to nourish the body. However, the experience for the diner, and in our case the client, can be dramatically improved. As a result make our experience more positive. 
 
-Similarly, refractored code is easy to follow, the logic flows better, and it uses less if-then statments. It's a win-win. 
+Similarly, refractored code is easy to follow, the logic flows better, and it uses less if-then statments and as a result it takes less run time. It's a win-win. 
